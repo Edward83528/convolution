@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-影像處理-convolution
+影像處理-image_enhancement
 """
 # 引入套件
 import os
